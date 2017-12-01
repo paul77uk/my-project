@@ -1,18 +1,24 @@
 body {
-    border: double 3px;
-    margin: 20px;
-    padding: 15px;
-    background: skyblue;
+   background: skyblue;
+    border: double;
+    padding: 25px;
+    margin: 25px;
     font-family: serif;
 }
 img {
+    border: double;
+    padding: 15px;
     background: gray;
-    border: 10px double;
 nav {
   background: gray;
-    border: double 4px;
+    border: double;
     width: 110px;
   }
+    main {
+            padding: 10px;
+    background: gray;
+    border: double;
+    }
 footer {
   background: gray;
     padding: 10px;
