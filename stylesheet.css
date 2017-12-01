@@ -1,7 +1,9 @@
-border: double 3px;
+body{
+    border: double 3px;
     margin: 20px;
     padding: 15px;
     background: skyblue;
+    font-family: serif;
 }
 img {
     background: gray;
