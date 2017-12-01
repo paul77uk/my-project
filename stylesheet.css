@@ -29,6 +29,7 @@ p {
   }
 li{
    background: green
+      border: double 2px;
 }
     main {
             padding: 10px;
