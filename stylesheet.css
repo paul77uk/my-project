@@ -27,10 +27,11 @@ p {
     border: double;
     width: 110px;
   }
+ul {
+   width: fit-content;
 ul li {
    background: green;
       border: double 2px;
-   width: fit-content
 }
     main {
             padding: 10px;
