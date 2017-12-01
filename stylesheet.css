@@ -1,20 +1,18 @@
+border: double 3px;
+    margin: 20px;
+    padding: 15px;
+    background: skyblue;
+}
 img {
-  background: grey;
-  padding: 50px;
-  border: 25px;
+    background: gray;
+    border: 10px double;
+nav {
+  background: gray;
+    border: double 4px;
+    width: 110px;
   }
-ul {
-  border: 2px red;
-}
-li {
-  border: 2px blue;
-}
-p { 
-  border: 2px double grey;
-}
-main {
-  background : blue;
-}
 footer {
-  background: grey;
+  background: gray;
+    padding: 10px;
+    border: double;
 }
