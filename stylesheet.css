@@ -10,14 +10,20 @@ img {
     padding: 15px;
     background: gray;
 }
-   p {
+h1 {
+       background: gray;
+    padding: 20px;
+    border: double;
+    width: 105px;
+}
+p {
       background: gray;
     padding: 10px;
     border: double;
    }
       
 .menu {
-  background: gray;
+  background: green;
     border: double;
     width: 110px;
   }
@@ -27,7 +33,7 @@ img {
     border: double;
     }
 footer {
-  background: gray;
+  background: green;
     padding: 10px;
     border: double;
 }
