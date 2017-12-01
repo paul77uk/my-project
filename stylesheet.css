@@ -27,7 +27,7 @@ p {
     border: double;
     width: 110px;
   }
-li {
+ul li {
    background: green;
       border: double 2px;
 }
