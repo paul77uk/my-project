@@ -17,13 +17,13 @@ h1 {
     width: 105px;
 }
 p {
-      background: gray;
+      background: green;
     padding: 10px;
     border: double;
    }
       
 .menu {
-  background: green;
+  background: gray;
     border: double;
     width: 110px;
   }
@@ -33,7 +33,7 @@ p {
     border: double;
     }
 footer {
-  background: green;
+  background: gray;
     padding: 10px;
     border: double;
 }
