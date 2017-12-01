@@ -9,6 +9,12 @@ img {
     border: double;
     padding: 15px;
     background: gray;
+   p {
+      background: gray;
+    padding: 10px;
+    border: double;
+   }
+      
 nav {
   background: gray;
     border: double;
