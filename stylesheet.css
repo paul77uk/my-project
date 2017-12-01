@@ -30,6 +30,7 @@ p {
 ul li {
    background: green;
       border: double 2px;
+   width: fit-content
 }
     main {
             padding: 10px;
