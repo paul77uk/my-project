@@ -27,6 +27,9 @@ p {
     border: double;
     width: 110px;
   }
+li{
+   background: green
+}
     main {
             padding: 10px;
     background: gray;
