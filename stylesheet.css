@@ -1,6 +1,20 @@
 img {
   background: grey;
   padding: 50px;
-  margin: 15dp;
+  border: 25px;
   }
-
+ul {
+  border: red;
+}
+li {
+  border: blue;
+}
+p { 
+  border: greem:
+}
+main {
+  background : blue;
+}
+footer {
+  backgrounf : grey:
+}
