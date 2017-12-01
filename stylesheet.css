@@ -4,17 +4,17 @@ img {
   border: 25px;
   }
 ul {
-  border: red;
+  border: 2px red;
 }
 li {
-  border: blue;
+  border: 2px blue;
 }
 p { 
-  border: green:
+  border: 2px green;
 }
 main {
   background : blue;
 }
 footer {
-  background : grey:
+  background: grey;
 }
