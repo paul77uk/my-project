@@ -29,6 +29,7 @@ p {
   }
 ul {
    width: fit-content;
+}
 ul li {
    background: green;
       border: double 2px;
