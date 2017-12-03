@@ -23,16 +23,11 @@ p {
    }
       
 .menu {
-  background: url("FortissimusLogo.jpg");
+  background-image: url("FortissimusLogo.jpg");
     
-    width: 110px;
+    
   }
-ul {
-   width: fit-content;
-}
-ul li {
-   background: green;
-      border: double 2px;
+
 }
     main {
             padding: 10px;
