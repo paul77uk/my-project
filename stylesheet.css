@@ -23,7 +23,7 @@ p {
    }
       
 .menu {
-  background: http://www.fortissimus.ca/images/WelcomeLogo.jpg;
+  background: url("http://www.fortissimus.ca/images/WelcomeLogo.jpg");
     
     width: 110px;
   }
