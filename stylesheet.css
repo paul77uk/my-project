@@ -24,6 +24,7 @@ p {
       
 .menu {
   background-image: url("FortissimusLogo.jpg");
+   background-repeat: no-repeat;
     
     
   }
