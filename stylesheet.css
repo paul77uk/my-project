@@ -23,8 +23,8 @@ p {
    }
       
 .menu {
-  background: gray;
-    border: double;
+  background: img src="http://www.fortissimus.ca/images/WelcomeLogo.jpg";
+    
     width: 110px;
   }
 ul {
