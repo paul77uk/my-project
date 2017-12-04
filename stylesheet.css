@@ -26,6 +26,7 @@ p {
   background-image: url("WelcomeLogo.jpg");
    background-repeat: no-repeat;
    background-size: cover;
+   background-size: 100%;
     }
 
     main {
