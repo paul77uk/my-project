@@ -1,6 +1,14 @@
 body {
     font-family: serif;
 }
+img{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: auto;
+}
+}
 h1 {
        background: gray;
     padding: 20px;
@@ -22,15 +30,6 @@ p {
 {
    padding-top: 75px;
     padding-left: 230px;
-}
-.menu {
-   background-color: black;
-    padding-bottom: 220px;
-   background-image: url(WelcomeLogo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: auto;
 }
     main {
         margin: 0 auto;
