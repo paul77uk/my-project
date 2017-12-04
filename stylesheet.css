@@ -1,5 +1,7 @@
 body {
-    font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+   font-size: 100%;
+    line-height: 1.4;
+    font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
 }
 img{
     background-color: black; 
