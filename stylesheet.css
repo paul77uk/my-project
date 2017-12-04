@@ -27,10 +27,9 @@ p {
     background-size: auto;
 }
     main {
-            padding: 10px;
-    background: gray;
-    border: double;
-    }
+        margin: 0 auto;
+        max-width: 960px;
+         }
 
 footer {
   background: gray;
