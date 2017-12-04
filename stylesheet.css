@@ -7,6 +7,33 @@ img{
     padding-right: 470px;
     padding-left: 470px;
 }
+.nav {
+    position: static;
+    text-align: center;
+    margin: 1em auto;
+    padding: 0;
+    white-space: normal
+}
+h1 {
+    position: static !important;
+    width: 100%;
+    height: auto;
+    clip: inherit;
+    overflow: visible;
+    margin-bottom: .5em;
+    font-size: 3em;
+    font-family: Satisfy, cursive;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0;
+    content: " ";
+    display: block;
+    height: 0;
+    margin: .5em auto 1em;
+    width: 50%;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
 
 
 p {
