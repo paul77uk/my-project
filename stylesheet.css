@@ -1,14 +1,5 @@
 body {
-   background: skyblue;
-    border: double;
-    padding: 25px;
-    margin: 25px;
     font-family: serif;
-}
-img {
-    border: double;
-    padding: 15px;
-    background: gray;
 }
 h1 {
        background: gray;
@@ -21,14 +12,20 @@ p {
     padding: 10px;
     border: double;
    }
-      
+      ul
+{
+   padding-top: 75px;
+    padding-left: 230px;
+}
 .menu {
-  background-image: url("WelcomeLogo.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-size: auto;
-    }
-
+   background-color: black;
+    padding-bottom: 220px;
+   background-image: url(WelcomeLogo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: auto;
+}
     main {
             padding: 10px;
     background: gray;
