@@ -8,9 +8,7 @@ h1 {
     width: 105px;
 }
 p {
-      background: green;
-    padding: 10px;
-    border: double;
+     margin-bottom: 1.25em;
    }
       ul
 {
