@@ -2,16 +2,13 @@ body {
     font-family: serif;
 }
 img{
-    background-color: black;
+    background-color: black; 
+    max-width: 100%;
     padding-right: 470px;
     padding-left: 470px;
 }
-h1 {
-       background: gray;
-    padding: 20px;
-    border: double;
-    width: 105px;
-}
+
+
 p {
      margin-bottom: 1.25em;
    }
@@ -23,18 +20,9 @@ p {
     overflow: visible;
         margin-bottom: .5em;
 }
-      ul
-{
-   padding-top: 75px;
-    padding-left: 230px;
-}
+   
     main {
         margin: 0 auto;
         max-width: 960px;
          }
 
-footer {
-  background: gray;
-    padding: 10px;
-    border: double;
-}
