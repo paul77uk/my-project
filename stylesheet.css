@@ -3,11 +3,8 @@ body {
 }
 img{
     background-color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: auto;
-}
+    padding-right: 470px;
+    padding-left: 470px;
 }
 h1 {
        background: gray;
