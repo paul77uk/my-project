@@ -25,16 +25,15 @@ p {
 .menu {
   background-image: url("FortissimusLogo.jpg");
    background-repeat: no-repeat;
-    
-    
-  }
+   background-size: cover;
+    }
 
-}
     main {
             padding: 10px;
     background: gray;
     border: double;
     }
+
 footer {
   background: gray;
     padding: 10px;
