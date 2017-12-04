@@ -10,6 +10,14 @@ h1 {
 p {
      margin-bottom: 1.25em;
    }
+.index {
+    position: static !important;
+    width: 100%;
+    height: auto;
+    clip: inherit;
+    overflow: visible;
+        margin-bottom: .5em;
+}
       ul
 {
    padding-top: 75px;
