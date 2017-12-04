@@ -1,6 +1,16 @@
 body {
+    font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 100%;
     line-height: 1.4;
     font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 0;
 }
 img{
     background-color: black; 
