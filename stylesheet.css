@@ -29,6 +29,7 @@ img{
     white-space: normal
 }
 h1 {
+        padding-bottom: 0.5em;
     padding-top: 0.5em;
     position: static !important;
     width: 100%;
@@ -56,12 +57,10 @@ ul
     border: 0;
     margin: 0;
     padding: 0;
-    text-align: center;
-    padding-bottom: 1.5em
 }
 
 p {
-     margin-bottom: 1.25em;
+     
    }
 .index {
     position: static !important;
