@@ -17,14 +17,14 @@ body {
 img{
     background-color: black; 
     max-width: 100%;
-    padding-right: 470px;
-    padding-left: 470px;
+    padding-right: 320px;
+    padding-left: 320px;
 }
 nav {
     position: static;
     text-align: center;
     margin: 1em auto;
-    padding: 0;
+    padding-left: 25%;
     white-space: normal
 }
 h1 {
@@ -56,6 +56,7 @@ ul
     border: 0;
     margin: 0;
     padding: 0;
+       list-style-type: none;
 }
 main{
         margin-left: 4em;
