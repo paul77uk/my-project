@@ -62,6 +62,7 @@ p {
      
    }
 .index {
+        text-align:center;
     position: static !important;
     width: 100%;
     height: auto;
