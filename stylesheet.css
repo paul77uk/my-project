@@ -1,4 +1,5 @@
 body {
+    width: max-content;
     font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
     font-style: normal;
     font-variant-ligatures: normal;
