@@ -1,4 +1,6 @@
 body {
+        margin: 0 auto;
+    max-width: 960px;
     width: max-content;
     font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
     font-style: normal;
@@ -69,11 +71,6 @@ p {
     overflow: visible;
         margin-bottom: .5em;
 }
-   
-    main {
-        margin: 0 auto;
-        max-width: 960px;
-         }
 footer
 {
     border-top: 1px solid #ccc;
