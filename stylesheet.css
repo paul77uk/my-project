@@ -1,3 +1,7 @@
+html {
+        width: fit-content
+}
+
 body {
         margin: 0 auto;
     
@@ -88,4 +92,5 @@ footer
     margin: 0 auto;
    margin-left: 4em;
         margin-right: 4em;
+        text-align: center;
 }
