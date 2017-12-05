@@ -20,7 +20,7 @@ img{
     padding-right: 170px;
     padding-left: 170px;
 }
-.nav {
+nav {
     position: static;
     text-align: center;
     margin: 1em auto;
