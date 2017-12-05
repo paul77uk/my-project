@@ -1,7 +1,6 @@
 body {
         margin: 0 auto;
     max-width: 960px;
-    width: max-content;
     font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
     font-style: normal;
     font-variant-ligatures: normal;
@@ -18,8 +17,8 @@ body {
 img{
     background-color: black; 
     max-width: 100%;
-    padding-right: 470px;
-    padding-left: 470px;
+    padding-right: 170px;
+    padding-left: 170px;
 }
 .nav {
     position: static;
