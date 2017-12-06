@@ -1,0 +1,96 @@
+html {
+        width: fit-content
+}
+
+body {
+        margin: 0 auto;
+    
+    font: 100%/1.4 "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 100%;
+    line-height: 1.4;
+    font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 0;
+        width: 1250px;
+}
+img{
+    background-color: black; 
+    max-width: 100%;
+    padding-right: 305px;
+    padding-left: 305px;
+}
+nav {
+    position: static;
+    text-align: center;
+    margin: 1em auto;
+    
+    white-space: normal
+}
+h1 {
+        padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    position: static !important;
+    width: 100%;
+    height: auto;
+    clip: inherit;
+    overflow: visible;
+    margin-bottom: .5em;
+    font-size: 3em;
+    font-family: Satisfy, cursive;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0;
+    content: " ";
+    display: block;
+    height: 0;
+    margin: .5em auto 1em;
+    width: 50%;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
+ul 
+{
+   width: auto; 
+    background: transparent;
+    border: 0;
+    margin: 0;
+    padding: 0;
+       list-style-type: none;
+}
+main{
+        margin-left: 4em;
+    margin-right: 4em;
+        
+}
+
+p {
+     
+   }
+.index {
+        text-align:center;
+    position: static !important;
+    width: 100%;
+    height: auto;
+    clip: inherit;
+    overflow: visible;
+        margin-bottom: .5em;
+}
+footer
+{
+    border-top: 1px solid #ccc;
+    padding-top: 1em;
+    font-size: 0.875em;
+    font-style: italic;
+    box-sizing: border-box;
+    
+    margin: 0 auto;
+   margin-left: 4em;
+        margin-right: 4em;
+        text-align: center;
+}
