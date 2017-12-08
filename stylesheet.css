@@ -85,10 +85,10 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
-}
+
 main{
-        margin-left: 4em;
-    margin-right: 4em;
+        margin-left: 2em;
+    margin-right: 2em;
         
 }
 
