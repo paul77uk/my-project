@@ -19,11 +19,11 @@ body {
     padding: 0;
         width: 1250px;
 }
-img{
-    background-color: black; 
+.logo {
+    text-align: center;
+    background-color: black;
     max-width: 100%;
-    padding-right: 305px;
-    padding-left: 305px;
+    padding-top: 5%;
 }
 nav {
     position: static;
