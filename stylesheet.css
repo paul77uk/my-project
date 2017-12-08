@@ -22,6 +22,7 @@ body {
 img{
     background-color: black; 
     max-width: 100%;
+        padding-top: 5%;
     padding-right: 480px;
     padding-left: 480px;
 }
