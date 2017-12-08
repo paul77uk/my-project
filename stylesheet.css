@@ -19,7 +19,7 @@ body {
     padding: 0;
         width: 1600px;
 }
-img{
+.logo {
     background-color: black; 
     max-width: 100%;
         padding-top: 5%;
