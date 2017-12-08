@@ -57,11 +57,11 @@ h1 {
 }
 .top 
 {
-  font-size: xx-large;
-    padding-left: 25%;
-        background-color: #333;
+      padding-left: 12.5%;
+    background-color: #333;
     position: fixed;
     top: 0;
+    font-size: -webkit-xxx-large;
 }
 main{
         margin-left: 4em;
