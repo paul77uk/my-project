@@ -54,14 +54,36 @@ h1 {
     border-top: 1px solid #ccc;
     text-align: center;
 }
-ul 
-{
-   width: auto; 
-    background: transparent;
-    border: 0;
+ul {
+    list-style-type: none;
     margin: 0;
     padding: 0;
-       list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
 }
 main{
         margin-left: 4em;
@@ -72,15 +94,7 @@ main{
 p {
      
    }
-.index {
-        text-align:center;
-    position: static !important;
-    width: 100%;
-    height: auto;
-    clip: inherit;
-    overflow: visible;
-        margin-bottom: .5em;
-}
+
 footer
 {
     border-top: 1px solid #ccc;
