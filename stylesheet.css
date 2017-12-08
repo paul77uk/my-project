@@ -30,7 +30,7 @@ nav {
     position: static;
     text-align: center;
     margin: 1em auto;
-    
+        margin-bottom: 3em;
     white-space: normal
 }
 h1 {
