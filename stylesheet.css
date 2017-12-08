@@ -66,11 +66,8 @@ ul {
     width: 100%;
 }
 
-li {
-    float: left;
-}
-
 li a {
+        float: left;
     display: block;
     color: white;
     text-align: center;
@@ -80,10 +77,6 @@ li a {
 
 li a:hover:not(.active) {
     background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
 }
 
 main {
