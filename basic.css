@@ -56,9 +56,8 @@ h1 {
 }
 .top 
 {
-  font-size: x-large;
-    padding-right: 50%;
-    padding-left: 60%;
+  font-size: xx-large;
+    padding-left: 25%;
         background-color: #333;
     position: fixed;
     top: 0;
