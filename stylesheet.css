@@ -55,7 +55,7 @@ h1 {
     border-top: 1px solid #ccc;
     text-align: center;
 }
-ul nav {
+.top {
     list-style-type: none;
     margin: 0;
     padding: 0;
