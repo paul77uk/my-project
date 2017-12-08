@@ -24,6 +24,7 @@ body {
     background-color: black;
     max-width: 100%;
     padding-top: 5%;
+        padding-left: 25%;
 }
 nav {
     position: static;
