@@ -21,11 +21,11 @@ body {
     font-variant-numeric: normal;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 100%;
     line-height: 1.4;
     font-family: "Libre Baskerville", Georgia, "Times New Roman", Times, serif;
     margin: 0;
     padding: 0;
+        font-size: -webkit-xxx-large;
         width: 1250px;
 }
 .logo {
@@ -72,8 +72,10 @@ h1 {text-decoration: underline;
     font-size: -webkit-xxx-large;
 }
 main{
-        margin-left: 4em;
-    margin-right: 4em;
+        margin-left: 14em;
+    margin-right: 14em;
+        padding: 4em;
+        background-color: light-gray;
         
 }
 .poundstone_pic
