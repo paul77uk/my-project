@@ -72,10 +72,9 @@ h1 {text-decoration: underline;
     font-size: -webkit-xxx-large;
 }
 main{
-        margin-left: 2em;
-    margin-right: 2em;
+        margin: 2em;
         padding: 2em;
-        background-color: light-gray;
+        background-color: gray;
         
 }
 .poundstone_pic
