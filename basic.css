@@ -43,14 +43,14 @@ nav {
 }
 h1 {text-decoration: underline;
     padding-bottom: 1.25em;
-    padding-top: 2.5em;
+    padding-top: 1.25em;
     position: static !important;
     width: 100%;
     height: auto;
     clip: inherit;
     overflow: visible;
     margin-bottom: .5em;
-    font-size: 3.5em;
+    font-size: 2.5em;
     font-family: Satisfy, cursive;
     font-weight: 400;
     line-height: 1;
